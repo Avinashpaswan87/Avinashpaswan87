@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Avinashpaswan87
-- 👀 I’m interested in web devloping
-- 🌱 I’m currently learning front end 
-
+- 👋 Hi, I’m @Avinashpaswan
 
 <!---
 Avinashpaswan87/Avinashpaswan87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
